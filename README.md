@@ -1,5 +1,4 @@
-# Skillovilla-Project
- **ShopNest Store Power BI Capstone:(2025)**
+# ShopNest Store Power BI Capstone
 -**Skills**: Power BI, Data visualization, DAX, Dashboard design, Business Analysis, Filters and Slicers.
 -**Task**: Developed a comprehensive dashboard to analyze retail data of ShopNest Store including Sales performance, Product categories, Delayed orders, Payment status, Product ratings and Seasonal sales patterns.
 -**Action**: Utilized Power BI Capabilities such as DAX formulas, slicers and filtering options to create interactive and detailed visualizations enabling in-depth exploration of the data.
